@@ -1,0 +1,29 @@
+.cabecera{
+    display: inline;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white; 
+    color: black;
+
+}
+
+.menu{
+    margin-left: 80%;
+    background-color: transparent;
+    border: none; 
+    cursor: pointer;
+}
+.pie{
+    display: flex;
+    min-height: 100vh;
+    background-color: azure;
+}
+
+.title{
+    display: flex;
+}
+
+.header_more{
+   
+  
+}
